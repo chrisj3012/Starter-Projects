@@ -1,0 +1,200 @@
+[
+        
+            {
+                "name": "Harpy Eagle",
+                "taxonomy": {
+                  "status": "Apex",
+                  "kingdom": "Animalia",
+                  "phylum": "Chordata",
+                  "class": "Aves",
+                  "order": "Accipitriformes",
+                  "family": "Accipitridae",
+                  "genus": "Harpia",
+                  "scientific_name": "Harpia harpyja"
+                },
+                "locations": [
+                  "Central-America",
+                  "South-America"
+                ],
+                "characteristics": {
+                  "prey": ["Sloths", "monkeys", "opossums", "lizards", "rodents", "small deer", "birds"],
+                  "name_of_young": "Chicks or hatchlings",
+                  "group_behavior": "Small families",
+                  "estimated_population_size": "Unknown",
+                  "most_distinctive_feature": "Crown of feathers",
+                  "other_name(s)": "American Harpy Eagle",
+                  "wingspan": "2m (6.5ft)",
+                  "habitat": "Lowland rainforests",
+                  "predators": "Other harpy eagles",
+                  "diet": "Carnivore",
+                  "common_name": "Harpy Eagle",
+                  "location": "Central and South America",
+                  "slogan": "Talon's the size of a grizzly bear's claws!",
+                  "group": "Birds",
+                  "color": "BlackWhite",
+                  "skin_type": "Feathers",
+                  "top_speed": 50,
+                  "lifespan": 35,
+                  "weight": 20,
+                  "length": "89cm - 102cm (35in - 40in)",
+                  "age_of_sexual_maturity": "4 or 5 years"
+                }
+              },
+            
+            {
+                "name": "Ocelot",
+                "taxonomy": {
+                  "status": "Meso",
+                  "kingdom": "Animalia",
+                  "phylum": "Chordata",
+                  "class": "Mammalia",
+                  "order": "Carnivora",
+                  "family": "Felidae",
+                  "genus": "Leopardus",
+                  "scientific_name": "Leopardus pardalis"
+                },
+                "locations": [
+                  "Central-America",
+                  "South-America"
+                ],
+                "characteristics": {
+                  "prey": ["Rodents", "Lizards", "(Young) Deer", "(Small) Birds", "Snakes", "Iguanas", "(Baby) Peccaries", "Fish", "Crabs"],
+                  "name_of_young": "Kitten",
+                  "group_behavior": "Solitary",
+                  "estimated_population_size": "800,000",
+                  "biggest_threat": "Habitat loss",
+                  "most_distinctive_feature": "Rosettes, spots and stripes on fur",
+                  "other_name(s)": "Painted Leopard",
+                  "gestation_period": "79 - 85 days",
+                  "habitat": "Tropical jungle, grassland and marshes",
+                  "predators": ["Jaguar", "Puma", "Harpy Eagle"],
+                  "diet": "Carnivore",
+                  "average_litter_size": "2",
+                  "lifestyle": "Nocturnal/Crepuscular",
+                  "common_name": "Ocelot",
+                  "number_of_species": "1",
+                  "location": "South America",
+                  "slogan": "Also known as the Painted Leopard!",
+                  "group": "Mammal",
+                  "color": "GreyYellowRedBlackTan",
+                  "skin_type": "Fur",
+                  "top_speed": 38,
+                  "lifespan": 12,
+                  "weight": 35,
+                  "length": "55cm - 100cm (22in - 40in)",
+                  "age_of_sexual_maturity": "2 - 3 years",
+                  "age_of_weaning": "6 weeks"
+                }
+              },
+        
+        {
+            "name": "Opossum",
+            "taxonomy": {
+              "status": "Meso",
+              "kingdom": "Animalia",
+              "phylum": "Chordata",
+              "class": "Mammalia",
+              "order": "Didelphimorphia",
+              "family": "Didelphidae",
+              "genus": "Didelphis",
+              "scientific_name": "Didelphis Virginiana"
+            },
+            "locations": [
+              "North-America"
+            ],
+            "characteristics": {
+              "prey": ["Fruit", "Insects", "Carrion", "Reptiles", "Amphibians", "Birds (and/or) eggs", "Crustaceans", "(small) Mammals"],
+              "habitat": "Forest and farmland close to water",
+              "predators": ["Fox", "Cat", "Birds of Prey"],
+              "estimated_population_size": "Unknown",
+              "diet": "Omnivore",
+              "average_litter_size": "6",
+              "lifestyle": "Solitary",
+              "favorite_food": "Fruit",
+              "type": "Mammal",
+              "slogan": "Thought to be immune to certain snake venom!",
+              "color": "BrownGreyBlackWhite",
+              "skin_type": "Fur",
+              "top_speed": 15,
+              "lifespan": 7,
+              "weight": 13
+            }
+          },
+
+        {
+            "name": "Unau (Linnaeus’s Two-Toed Sloth)",
+            "taxonomy": {
+              "status": "Prey",
+              "kingdom": "Animalia",
+              "phylum": "Chordata",
+              "class": "Mammalia",
+              "order": "Pilosa",
+              "family": "Choloepodidae",
+              "genus": "Choloepus",
+              "scientific_name": "Choloepodidae didactylus"
+            },
+            "locations": [
+              "South-America"
+            ],
+            "characteristics": {
+              "prey": ["Plants", "Insects", "Lizards", "Eggs", and "small vertebrates"],
+              "name_of_young": "Baby sloths, pups",
+              "group_behavior": "Solitary",
+              "estimated_population_size": "Unknown",
+              "biggest_threat": "Predation, habitat loss, car collisions",
+              "most_distinctive_feature": "Two toes on front legs",
+              "other_name(s)": "Linnaeus's two-toed sloth, Linne's two-toed sloth, Megalonychidae",
+              "gestation_period": "6 months",
+              "litter_size": "1",
+              "habitat": "Rainforests",
+              "predators": ["Harpy Eagles", "Jaguars", "Ocelots", "Anaconda", "Domestic dogs", "Humans"],
+              "diet": "Omnivore",
+              "favorite_food": "Vegetation, insects, small vertebrates",
+              "type": "Xenarthran",
+              "common_name": "unau, two-toed sloth, southern two toed-sloth",
+              "number_of_species": "1",
+              "location": "South America",
+              "color": "BrownGreyGreen",
+              "skin_type": "Hair",
+              "top_speed": 0.17,
+              "lifespan": 40,
+              "weight": 17.6,
+              "length": "23-28 inches",
+              "age_of_sexual_maturity": "3 years for females, 4-5 years for males",
+              "age_of_weaning": "1 year"
+            }
+          },
+
+        {
+            "name": "Iguana",
+            "taxonomy": {
+              "status": "Prey",
+              "kingdom": "Animalia",
+              "phylum": "Chordata",
+              "class": "Reptilia",
+              "order": "Squamata",
+              "family": "Iguanidae"
+            },
+            "locations": [
+              "Central-America",
+              "South-America"
+            ],
+            "characteristics": {
+              "main_prey": "Insects, Fruit, Leaves",
+              "habitat": "Lowland tropical rainforest near water",
+              "predators": "Hawk, Eagle, Snakes",
+              "diet": "Omnivore",
+              "average_litter_size": "3",
+              "lifestyle": "Solitary",
+              "favorite_food": "Insects",
+              "type": "Reptile",
+              "slogan": "Uses visual signals to communicate!",
+              "color": "BrownYellowGreen",
+              "skin_type": "Scales",
+              "top_speed": 21,
+              "lifespan": 20,
+              "weight": 13.2
+            }
+          },
+            
+]

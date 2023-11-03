@@ -1,0 +1,37 @@
+[
+    {
+        "planet": "Harpy",
+       
+        "weight": 20,
+        "lifespan": 35,
+        "top_speed": 50
+    },
+    {
+        "planet": "Ocelot",
+        
+        "weight": 35,
+        "lifespan": 12,
+        "top_speed": 38
+    },
+    {
+        "planet": "Oppossum",
+       
+        "weight": 13,
+        "lifespan": 7,
+        "top_speed": 15
+    },
+    {
+        "planet": "Sloth",
+        
+        "weight": 17.6,
+        "lifespan": 40,
+        "top_speed": 0.17
+    },
+    {
+        "planet": "Iguana",
+       
+        "weight": 13.2,
+        "lifespan": 20,
+        "top_speed": 21
+    }
+]
